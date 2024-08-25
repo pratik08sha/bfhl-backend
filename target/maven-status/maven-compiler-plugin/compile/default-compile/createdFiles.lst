@@ -1,0 +1,6 @@
+com/example/bhfl/RequestData.class
+com/example/bhfl/ResponseData.class
+com/example/bhfl/CorsConfiguration.class
+com/example/bhfl/BhflApplication.class
+com/example/bhfl/GetResponseData.class
+com/example/bhfl/BfhlController.class
